@@ -2,7 +2,7 @@
 
 ![Banner-JrDev](https://raw.githubusercontent.com/mthor-v/mthor-v/main/init_banner.jpg)
 
-My name is Miguel, I'm working on development of Backend services using technologies such as Django and SpringBoot. I also have FrontEnd development skills with Angular and a bit of Vue. I'm currently learning Android mobile development with Kotlin.
+I'm working on development of Backend services using technologies such as Django and SpringBoot. I also have FrontEnd development skills with Angular and a bit of Vue. I'm currently learning Android mobile development with Kotlin.
 
 ## Technologies:
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
@@ -16,6 +16,10 @@ My name is Miguel, I'm working on development of Backend services using technolo
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Azure](https://img.shields.io/badge/Azure-0073C6?style=for-the-badge&logo=MicrosoftAzure&logoColor=white&labelColor=101010)]()
+
+## Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0073C6?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguet-velandia)
+
 <!--
 **mthor-v/mthor-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
