@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://raw.githubusercontent.com/mthor-v/mthor-v/blob/main/init_banner.jpg
+![Banner-JrDev](https://raw.githubusercontent.com/mthor-v/mthor-v/main/init_banner.jpg)
 
 <!--
 **mthor-v/mthor-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
