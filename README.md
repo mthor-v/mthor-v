@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-![Banner-JrDev](https://raw.githubusercontent.com/mthor-v/mthor-v/main/)
+![Banner-JrDev](https://raw.githubusercontent.com/mthor-v/mthor-v/main/init_banner.jpg)
 
+My name is Miguel, I'm working on development of Backend services using technologies such as Django and SpringBoot. I also have FrontEnd development skills with Angular and a bit of Vue. I'm currently learning Android mobile development with Kotlin.
+
+## Technologies:
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
+</br>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
 <!--
 **mthor-v/mthor-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
