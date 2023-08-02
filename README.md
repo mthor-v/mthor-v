@@ -2,7 +2,7 @@
 
 ![Banner-JrDev](https://raw.githubusercontent.com/mthor-v/mthor-v/main/init_banner.jpg)
 
-I'm working on development of Backend services using technologies such as Django and SpringBoot. I also have FrontEnd development skills with Angular and a bit of Vue. I'm currently learning Android mobile development with Kotlin.
+I'm working on the development of Backend services using technologies such as Django and SpringBoot. I also have FrontEnd development skills with Angular and some experience with Vue. Currently, I'm learning Android mobile development with Kotlin.
 
 ## Technologies:
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
