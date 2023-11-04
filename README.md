@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner-JrDev](https://raw.githubusercontent.com/mthor-v/mthor-v/main/init_banner.jpg)
+![Banner-JrDev](https://raw.githubusercontent.com/mthor-v/mthor-v/main/new_banner.png)
 
 I'm working on the development of Backend services using technologies such as Django and SpringBoot. I also have FrontEnd development skills with Angular and some experience with Vue. Currently, I'm learning Android mobile development with Kotlin.
 
